@@ -21,4 +21,4 @@ This project is a Retrieval-Augmented Generation (RAG) based system built using 
 3. Run main.py
 
 ## Sample Query
-"What is refund policy?"
+"What is refund AI?"
